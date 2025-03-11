@@ -1,5 +1,5 @@
 # dwm
-Arun's personal dwm 
+My personal dwm 
 
 ## dwm - Dynamic Window Manager
 dwm is an extremely fast, small, and dynamic window manager for X.
